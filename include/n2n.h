@@ -41,7 +41,7 @@
 #undef N2N_HAVE_DAEMON
 #undef N2N_HAVE_SETUID
 #else
-#include "config.h"
+#include "../config.h"
 #endif
 
 

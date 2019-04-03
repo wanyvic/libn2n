@@ -1,5 +1,5 @@
 #ifndef WIN32
-#include "config.h"
+#include "../config.h"
 #else
 #include "win32/winconfig.h"
 #endif
